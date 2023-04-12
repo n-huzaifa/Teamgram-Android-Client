@@ -42,6 +42,3 @@ RELEASE_STORE_PASSWORD=<your_release_store_password>
 - To create an .apk/.abb file go to Build > Build Bundle(s)/APK(s) the generated APK will be under `TMessagesProj_App/build/outputs/apk/afat/debug`
 - If you want to generate a signed APK for distribution, go to the "Build" menu in Android Studio and click on "Generate Signed Bundle/APK". Follow the prompts to create a signed APK according to your desired configuration.
 - The generated APK can be found in the `teamgram-android/app/build/outputs/apk/ directory`.
-
-## Live Demo of the App build
-
